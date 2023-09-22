@@ -1,1 +1,3 @@
-# pzha0450_9103_tut3
+# myNewRepo
+
+This is a repo that I will use to learn the github.
